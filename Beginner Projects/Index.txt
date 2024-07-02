@@ -1,0 +1,3 @@
+My Beginner Projects Index
+[0] = John Doe : In this project its simply outputs with variables. 
+And I create this because of the grasping the print and println difference.
