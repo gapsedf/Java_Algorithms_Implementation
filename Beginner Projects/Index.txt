@@ -1,3 +1,6 @@
 My Beginner Projects Index
 [0] = John Doe : In this project its simply outputs with variables. 
 And I create this because of the grasping the print and println difference.
+
+[1] = Can Serve : In this projects its simply checks the given data for the volunteer is fit
+to the serve in USA Army forces. Like Navy Forces, Army, Air Force exc.
